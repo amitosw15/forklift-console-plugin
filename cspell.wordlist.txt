@@ -96,6 +96,7 @@ VAAI
 operatorhub
 powerflex
 powermax
+infinibox
 apiextensions
 customresourcedefinitions
 clusterversion
